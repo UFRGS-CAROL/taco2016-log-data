@@ -8,7 +8,7 @@
 
 Each folder contains .data files, that were extracted on fault injection
 
-##radiation_test_outputs has the Radiation test performed at LANCE
+##radiation_test_outputs has the Radiation test outputs performed at LANCE
 This folder has two subfolders
 - Platform_A
 - Platform_B
