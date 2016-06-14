@@ -12,5 +12,5 @@ Each folder contains .data files, that were extracted on fault injection
 This folder has two subfolders
 - Platform_A
 - Platform_B
-- 
+
 These folders contains corrupted outputs (BB cordinators, jpg files), and gold data 
